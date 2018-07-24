@@ -1,0 +1,4 @@
+./Inbox/node_modules/*
+./Lottery/node_modules/*
+./lottery-react/node_modules/*
+./ReduxSimpleStarter/node_modules/*
