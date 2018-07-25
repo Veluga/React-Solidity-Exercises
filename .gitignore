@@ -2,3 +2,4 @@
 ./Lottery/node_modules/*
 ./lottery-react/node_modules/*
 ./ReduxSimpleStarter/node_modules/*
+./campaign/node_modules/*
